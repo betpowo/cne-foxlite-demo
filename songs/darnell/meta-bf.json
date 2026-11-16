@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#9271FD",
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"bf"
+	],
+	"icon": "dad",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Darnell (BF Mix)",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 155
+}

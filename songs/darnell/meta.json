@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#9271FD",
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"hard", "erect", "bf"
+	],
+	"icon": "dad",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Darnell",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 155
+}

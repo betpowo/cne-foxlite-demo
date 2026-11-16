@@ -1,0 +1,8 @@
+# THE demo song
+fresh
+
+# basic model + lighting setup
+darnell
+
+# texture atlas characters + ???
+test
